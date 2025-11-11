@@ -5,3 +5,4 @@
 - **Day 03 (08/11/2025)**: Factorial (iterative & recursive)
 - **Day 04 (09/11/2025)**: Fibonacci (iterative & recursive)
 - **Day 05 (10/11/2025)**:  Prime check (sqrt method)
+- **Day 06 (11/11/2025)**: List of prime number
