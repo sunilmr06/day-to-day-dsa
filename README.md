@@ -7,3 +7,4 @@
 - **Day 05 (10/11/2025)**:  Prime check (sqrt method)
 - **Day 06 (11/11/2025)**: List of prime number
 - **Day 07 (12/11/2025)**: Palindrome number/string
+- **Day 08 (13/11/2025)**: Armstrong/Narcissistic number
