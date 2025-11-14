@@ -8,3 +8,4 @@
 - **Day 06 (11/11/2025)**: List of prime number
 - **Day 07 (12/11/2025)**: Palindrome number/string
 - **Day 08 (13/11/2025)**: Armstrong/Narcissistic number
+- **Day 09 (14/11/2025)**: Reverse number & string
