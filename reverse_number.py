@@ -9,12 +9,12 @@ def reverse_number(n):
         digit = n % 10
         reverse = reverse * 10 + digit
         n //= 10
-
     print(f"Reverse of {original} is {reverse}")
 
 num = int(input("Enter a number : "))
 print(reverse_number(num))
 
+# This Reverse string format.
 def reverse_string(n) :
     reverse = n[::-1]
 
@@ -22,3 +22,4 @@ def reverse_string(n) :
 
 value = input("Enter a string : ")
 print(reverse_string(value))
+
