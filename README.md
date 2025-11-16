@@ -9,4 +9,5 @@
 - **Day 07 (12/11/2025)**: Palindrome number/string
 - **Day 08 (13/11/2025)**: Armstrong/Narcissistic number
 - **Day 09 (14/11/2025)**: Reverse number & string
-- **Day 10 (15/11/2025)**: Basic calculator 
+- **Day 10 (15/11/2025)**: Basic calculator
+- **Day 11 (16/11/2025)**: Find Maximum and Minimum in an Array
