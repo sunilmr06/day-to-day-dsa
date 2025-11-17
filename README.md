@@ -11,3 +11,4 @@
 - **Day 09 (14/11/2025)**: Reverse number & string
 - **Day 10 (15/11/2025)**: Basic calculator
 - **Day 11 (16/11/2025)**: Find Maximum and Minimum in an Array
+- **Day 12 (17/11/2025)**: Linear search variants
