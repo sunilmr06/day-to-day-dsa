@@ -12,3 +12,6 @@
 - **Day 10 (15/11/2025)**: Basic calculator
 - **Day 11 (16/11/2025)**: Find Maximum and Minimum in an Array
 - **Day 12 (17/11/2025)**: Linear search variants
+- **Day 13 (18/11/2025)**: Binary search
+- **Day 14 (19/11/2025)**: Bubble Sort
+- **Day 15 (25/11/2025)**: Selection Sort
