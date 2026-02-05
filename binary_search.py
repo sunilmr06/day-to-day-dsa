@@ -1,5 +1,5 @@
 # Date : 18/11/2025
-# day - 13 Binary search 
+# day - 13 Binary search
 
 def binary_search(arr,target):
     low = 0
@@ -21,3 +21,4 @@ target = int(input("Enter the target value : "))
 
 
 print(binary_search(array,target))
+
