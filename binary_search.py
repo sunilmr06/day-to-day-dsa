@@ -11,12 +11,13 @@ def binary_search(arr,target):
         if arr[mid] == target :
             return mid
         elif arr[mid] < target :
-            low = mid + 1 
+            low = mid + 1
         else:
             high = mid - 1
     return -1
 
 array = list(map(int,input("Enter the array element : ").split()))
 target = int(input("Enter the target value : "))
+
 
 print(binary_search(array,target))
