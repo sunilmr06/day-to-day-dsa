@@ -17,8 +17,9 @@ def binary_search(arr,target):
     return -1
 
 array = list(map(int,input("Enter the array element : ").split()))
-target = int(input("Enter the target value : "))
+target = int(input("Enter the target value : ")) 
 
 
 print(binary_search(array,target))
+
 
