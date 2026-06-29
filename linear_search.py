@@ -14,4 +14,4 @@ array = list(map(int,input("Enter the elements of the array :").split()))
 
 target = int(input("Enter the target number : "))
 
-print(linear_search(array,target))
+print(linear_search(array,target)) 
